@@ -1,0 +1,139 @@
+{
+  "user": [
+    {
+      "id": "65dc",
+      "username": "raja",
+      "email": "raja@gmail.com",
+      "password": "raja",
+      "books": [
+        {
+          "bookTitle": "Make My Trip",
+          "cashInEntries": [
+            {
+              "date": "06/14/2025",
+              "time": "03:59 PM",
+              "amount": "1000",
+              "description": "credit"
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:39 PM",
+              "amount": "1000",
+              "description": "Credit"
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:42 PM",
+              "amount": "1000",
+              "description": "Credit"
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:44 PM",
+              "amount": "3000",
+              "description": "Credit"
+            },
+            {
+              "date": "06/23/2025",
+              "time": "01:01 PM",
+              "amount": "1000",
+              "description": "Credit"
+            }
+          ],
+          "cashInTotal": 7000,
+          "cashOutEntries": [
+            {
+              "date": "06/14/2025",
+              "time": "03:57 PM",
+              "amount": "30",
+              "description": "Tea",
+              "cashOutTotal": 150
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:00 PM",
+              "amount": "100",
+              "description": "Food"
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:39 PM",
+              "amount": "70",
+              "description": "Debit"
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:42 PM",
+              "amount": "800",
+              "description": "Debit"
+            },
+            {
+              "date": "06/14/2025",
+              "time": "04:44 PM",
+              "amount": "2000",
+              "description": "Trip"
+            },
+            {
+              "date": "06/23/2025",
+              "time": "01:01 PM",
+              "amount": "500",
+              "description": "Debit"
+            }
+          ],
+          "cashOutTotal": 3500
+        }
+      ]
+    },
+    {
+      "id": "db48",
+      "username": "sai",
+      "email": "sai@gmail.com",
+      "password": "sai",
+      "books": [
+        {
+          "bookTitle": "Personal Wallet",
+          "cashInEntries": [
+            {
+              "date": "06/14/2025",
+              "time": "05:15 PM",
+              "amount": "10000",
+              "description": "Credited"
+            }
+          ],
+          "cashInTotal": 10000,
+          "cashOutEntries": [],
+          "cashOutTotal": 0
+        }
+      ]
+    },
+    {
+      "id": "5339",
+      "username": "subbu",
+      "email": "subbu@gmail.com",
+      "password": "subbu",
+      "books": [
+        {
+          "bookTitle": "Subbu Book",
+          "cashInEntries": [
+            {
+              "date": "06/18/2025",
+              "time": "09:14 PM",
+              "amount": "10000",
+              "description": "Credit"
+            }
+          ],
+          "cashInTotal": 10000,
+          "cashOutEntries": [
+            {
+              "date": "06/18/2025",
+              "time": "09:14 PM",
+              "amount": "1000",
+              "description": "Deposite"
+            }
+          ],
+          "cashOutTotal": 1000
+        }
+      ]
+    }
+  ]
+}
